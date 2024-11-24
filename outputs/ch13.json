@@ -1,0 +1,44 @@
+```json
+[
+    {
+        "topic": "System Requirements and Specifications",
+        "descr": "Embedded systems must be designed to meet specific requirements, often detailed in specifications which help prevent ambiguity during design.",
+        "related_topics": ["Formal Specifications", "System Properties", "SpaceWire Protocol"]
+    },
+    {
+        "topic": "Formal Specifications",
+        "descr": "A mathematical method for specifying system properties precisely, avoiding ambiguities in natural language descriptions.",
+        "related_topics": ["Temporal Logic", "System Requirements and Specifications", "Mathematical Notations"]
+    },
+    {
+        "topic": "Temporal Logic",
+        "descr": "A mathematical notation used for representing and reasoning about timing-related properties in system specifications.",
+        "related_topics": ["Formal Specifications", "Linear Temporal Logic", "System Properties"]
+    },
+    {
+        "topic": "Invariants",
+        "descr": "Properties that hold true for a system at every point during its operation, a fundamental concept in temporal logic.",
+        "related_topics": ["Temporal Logic", "System Properties", "SpaceWire Protocol"]
+    },
+    {
+        "topic": "Linear Temporal Logic (LTL)",
+        "descr": "A type of temporal logic used to specify system behavior across single executions, capable of expressing occurrence, dependency, and order properties.",
+        "related_topics": ["Temporal Logic", "Propositional Logic Formulas", "Temporal Operators"]
+    },
+    {
+        "topic": "Propositional Logic Formulas",
+        "descr": "Combining atomic propositions using logical connectives to express conditions in a system's reactions.",
+        "related_topics": ["Linear Temporal Logic (LTL)", "Temporal Logic", "Logical Connectives"]
+    },
+    {
+        "topic": "LTL Temporal Operators",
+        "descr": "Operators such as G (Globally), F (Eventually), X (Next), and U (Until) used within LTL to reason about system traces.",
+        "related_topics": ["Linear Temporal Logic (LTL)", "Temporal Logic", "Propositional Logic Formulas"]
+    },
+    {
+        "topic": "Safety and Liveness Properties",
+        "descr": "Key types of properties expressible with temporal logic focusing on a system's dependability and continuous operation.",
+        "related_topics": ["Temporal Logic", "Linear Temporal Logic (LTL)", "Formal Specifications"]
+    }
+]
+```'
